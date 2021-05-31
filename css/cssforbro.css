@@ -1,0 +1,147 @@
+body {
+  font-size: 30px;
+  font-family: serif;
+  text-align: center;
+  margin-top: 50px;
+  border: 0;
+}
+h1,h2{
+  color: coral;
+  padding:1px;
+}
+h1{
+  font-family: 'Liu Jian Mao Cao', cursive;
+  margin: 50px auto 0 auto ;
+  top: 50px;
+  line-height: 2;
+  font-size: 4rem;
+}
+h2{
+  font-family: Josefin Slab , serif;
+  font-size: 3rem;
+  padding: 10px;
+}
+.me{
+  border-radius: 50px;
+}
+
+.num1 {
+  background-color: aliceblue;
+  position: relative;
+  bottom: 50px;
+
+}
+.num2{
+  background-color: azure;
+  position: relative;
+  bottom: 50px;
+  padding: 50px 150px 50px 150px;
+}
+
+.cld1{
+  position: absolute;
+  right: 1000px;
+}
+.cld2{
+  position: absolute;
+}
+.table{
+  position: relative;
+
+
+}
+hr{
+  border-color: lightblue;
+  width: 10% ;
+  border-width: thick ;
+  border-style: dotted none none ;
+  height: 40px;
+  margin: 50px auto 50px auto;
+}
+.bottom{
+  background-color: cornsilk;
+  position: relative;
+
+}
+.mountain{
+  position: relative;
+  top: 70px;
+}
+.new{
+  width:40%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
+.new1{
+
+  padding-bottom: 10px;
+}
+.myButton {
+	background:linear-gradient(to bottom, skyblue 5%,  beige 100%);
+	background-color:powderblue;
+	border-radius:28px;
+	border:1px solid  beige;
+	display:inline-block;
+	cursor:pointer;
+	color:grey;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px powderblue;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, powderblue 5%, powderblue 100%);
+	background-color:powderblue;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+  font-size: 16px;
+  color: grey;
+
+}
+.slides{
+  background: white;
+  padding:0 300px 100px; 300px;
+
+  text-align: center;
+}
+.skillhead{
+  position: relative;
+  padding-bottom: 50px;
+  font-size: 3rem;
+}
+.blog{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  font-size: 15px;
+}
+.company{
+  padding-bottom: 50px;
+
+}
+.comp-img{
+  border-radius: 70px;
+  width:60%;
+  height: 300px;
+
+}
+.num3{
+  background-color:aliceblue;
+    padding: 50px 190px 50px 190px;
+}
+.skilltext{
+  text-align: center;
+  font-size: 25px;
+}
+.footer{
+  background-color: powderblue;
+}
+.me:hover{
+  color: black;
+  border-radius: 5px;
+}
